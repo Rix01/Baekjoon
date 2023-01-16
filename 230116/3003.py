@@ -1,0 +1,5 @@
+num = [1,1,2,2,2,8] # 정해진 갯수
+arr = list(map(int, input().split()))
+
+for i in range(6):
+    print(num[i] - arr[i], end = ' ')
