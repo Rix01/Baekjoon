@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "week1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2309_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2309_1-Debug-5503460c99c4ee2ae2de.json",
+					"name" : "2309_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GO-Debug-b451ca1a1b45f01848da.json",
+					"name" : "GO",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/cmake-build-debug",
+		"source" : "C:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

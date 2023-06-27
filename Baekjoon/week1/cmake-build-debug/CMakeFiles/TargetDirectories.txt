@@ -1,0 +1,4 @@
+C:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/cmake-build-debug/CMakeFiles/2309_1.dir
+C:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/cmake-build-debug/CMakeFiles/GO.dir
+C:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
