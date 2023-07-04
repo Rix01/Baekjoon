@@ -79,6 +79,18 @@ build CMakeFiles/2309_1.dir/2979.cpp.obj: CXX_COMPILER__2309_1_Debug C$:/Users/R
   OBJECT_DIR = CMakeFiles\2309_1.dir
   OBJECT_FILE_DIR = CMakeFiles\2309_1.dir
 
+build CMakeFiles/2309_1.dir/10988.cpp.obj: CXX_COMPILER__2309_1_Debug C$:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/10988.cpp || cmake_object_order_depends_target_2309_1
+  DEP_FILE = CMakeFiles\2309_1.dir\10988.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2309_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\2309_1.dir
+
+build CMakeFiles/2309_1.dir/10988_lecture.cpp.obj: CXX_COMPILER__2309_1_Debug C$:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/10988_lecture.cpp || cmake_object_order_depends_target_2309_1
+  DEP_FILE = CMakeFiles\2309_1.dir\10988_lecture.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2309_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\2309_1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 2309_1
@@ -87,7 +99,7 @@ build CMakeFiles/2309_1.dir/2979.cpp.obj: CXX_COMPILER__2309_1_Debug C$:/Users/R
 #############################################
 # Link the executable 2309_1.exe
 
-build 2309_1.exe: CXX_EXECUTABLE_LINKER__2309_1_Debug CMakeFiles/2309_1.dir/2309_1.cpp.obj CMakeFiles/2309_1.dir/2309_2.cpp.obj CMakeFiles/2309_1.dir/10808.cpp.obj CMakeFiles/2309_1.dir/10808_1.cpp.obj CMakeFiles/2309_1.dir/2979.cpp.obj
+build 2309_1.exe: CXX_EXECUTABLE_LINKER__2309_1_Debug CMakeFiles/2309_1.dir/2309_1.cpp.obj CMakeFiles/2309_1.dir/2309_2.cpp.obj CMakeFiles/2309_1.dir/10808.cpp.obj CMakeFiles/2309_1.dir/10808_1.cpp.obj CMakeFiles/2309_1.dir/2979.cpp.obj CMakeFiles/2309_1.dir/10988.cpp.obj CMakeFiles/2309_1.dir/10988_lecture.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2309_1.dir
@@ -106,8 +118,8 @@ build 2309_1.exe: CXX_EXECUTABLE_LINKER__2309_1_Debug CMakeFiles/2309_1.dir/2309
 
 build cmake_object_order_depends_target_GO: phony || CMakeFiles/GO.dir
 
-build CMakeFiles/GO.dir/2979.cpp.obj: CXX_COMPILER__GO_Debug C$:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/2979.cpp || cmake_object_order_depends_target_GO
-  DEP_FILE = CMakeFiles\GO.dir\2979.cpp.obj.d
+build CMakeFiles/GO.dir/10988_lecture.cpp.obj: CXX_COMPILER__GO_Debug C$:/Users/Rin/Desktop/STUDY/Cpp_study/Baekjoon/week1/10988_lecture.cpp || cmake_object_order_depends_target_GO
+  DEP_FILE = CMakeFiles\GO.dir\10988_lecture.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\GO.dir
   OBJECT_FILE_DIR = CMakeFiles\GO.dir
@@ -120,7 +132,7 @@ build CMakeFiles/GO.dir/2979.cpp.obj: CXX_COMPILER__GO_Debug C$:/Users/Rin/Deskt
 #############################################
 # Link the executable GO.exe
 
-build GO.exe: CXX_EXECUTABLE_LINKER__GO_Debug CMakeFiles/GO.dir/2979.cpp.obj
+build GO.exe: CXX_EXECUTABLE_LINKER__GO_Debug CMakeFiles/GO.dir/10988_lecture.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\GO.dir
